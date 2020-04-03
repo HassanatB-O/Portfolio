@@ -1,0 +1,66 @@
+body
+{
+    background-color: gray;
+}
+.topnav
+{
+    background-color: darkred;
+    width: auto;
+    height: 30px;
+    text-align: end;
+}
+.topnav a
+{
+    color: ivory;
+    font-size: large;
+    text-decoration: none;
+}
+.section1
+{
+    background-color: black;
+    color: white;
+    height: 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    border: 2px solid gray;
+    text-align: center;
+}
+p
+{
+    color: blue;
+    font-size: 20px;
+    font-weight: 700;
+}
+h1
+{
+    font-size: 35px;
+    color: darkred;
+}
+h2
+{
+    background-color: darksalmon;
+    color: darkred;
+    font-size: 30px;
+    text-align: center;
+}
+.section2, .section4, .section6
+{
+    background-color: ivory;
+    border: 1px solid black;
+    text-align: center;
+}
+.section3, .section5
+{
+    background-color: slateblue;
+    text-align: center;
+    border: 1px grey;
+}
+img
+{
+    width: 200px;
+}
+footer
+{
+    text-align: center;
+}
